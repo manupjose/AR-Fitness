@@ -1,7 +1,10 @@
 
 # AR Fitness(Augmented Reality Fitness )
 
-
+Authors:
+MANU P JOSE
+GODFRAY BUEX
+FARHAN M HAMEED
 
 Content of Read Md file:
 
